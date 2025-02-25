@@ -1,0 +1,3 @@
+[submodule "Band-Name-Generator"]
+    path = Band-Name-Generator
+    url = https://github.com/sazzad4677/Band-Name-Generator.git
