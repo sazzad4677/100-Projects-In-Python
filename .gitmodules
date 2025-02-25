@@ -4,3 +4,7 @@
 [submodule "Tip-Calculator"]
     path = Tip-Calculator
     url = https://github.com/sazzad4677/Tip-Calculator.git
+
+[submodule "Treasure-Island"]
+    path = Treasure-Island
+    url = https://github.com/sazzad4677/Treasure-Island.git
