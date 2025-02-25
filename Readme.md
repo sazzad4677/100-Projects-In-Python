@@ -24,7 +24,9 @@ git submodule update --init --recursive
 
 ## 📜 Project List  
 - [x] Band Name Generator 🎵 (Beginner)  
-- [x] Tip Calculator 💰 (Beginner)  
+- [x] Tip Calculator 💰 (Beginner)
+- [x] Treasure-Island  (Beginner) 
+- [x] Rock-Paper-Scissors (Beginner) 
 - [ ] More projects coming soon...  
 
 Stay tuned for more exciting projects! 🚀
