@@ -1,3 +1,6 @@
 [submodule "Band-Name-Generator"]
     path = Band-Name-Generator
     url = https://github.com/sazzad4677/Band-Name-Generator.git
+[submodule "Tip-Calculator"]
+    path = Tip-Calculator
+    url = https://github.com/sazzad4677/Tip-Calculator.git
