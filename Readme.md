@@ -24,6 +24,7 @@ git submodule update --init --recursive
 
 ## 📜 Project List  
 - [x] Band Name Generator 🎵 (Beginner)  
+- [x] Tip Calculator 💰 (Beginner)  
 - [ ] More projects coming soon...  
 
 Stay tuned for more exciting projects! 🚀
