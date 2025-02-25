@@ -4,5 +4,6 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Band-Name-Generator" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Tip-Calculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Treasure-Island" vcs="Git" />
   </component>
 </project>
