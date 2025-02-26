@@ -9,6 +9,10 @@
     path = Treasure-Island
     url = https://github.com/sazzad4677/Treasure-Island.git
 
-[submodule "Rock-Paper-Scissors"]
-    path = Rock-Paper-Scissors
-    url = https://github.com/sazzad4677/Rock-Paper-Scissors.git
+[submodule "Hangman"]
+    path = Hangman
+    url = https://github.com/sazzad4677/Hangman.git
+
+[submodule "Password-Generator"]
+    path = Password-Generator
+    url = https://github.com/sazzad4677/Password-Generator.git
