@@ -16,3 +16,7 @@
 [submodule "Password-Generator"]
     path = Password-Generator
     url = https://github.com/sazzad4677/Password-Generator.git
+
+[submodule "Caesar-Cipher"]
+    path = Caesar-Cipher
+    url = https://github.com/sazzad4677/Caesar-Cipher.git
