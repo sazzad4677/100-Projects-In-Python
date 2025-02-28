@@ -23,3 +23,6 @@
 [submodule "Blind-Auction"]
 	path = Blind-Auction
 	url = https://github.com/sazzad4677/Blind-Auction.git
+[submodule "Calculator"]
+	path = Calculator
+	url = https://github.com/sazzad4677/Calculator.git
