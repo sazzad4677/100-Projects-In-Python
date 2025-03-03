@@ -29,3 +29,6 @@
 [submodule "Black-Jack"]
 	path = Black-Jack
 	url = https://github.com/sazzad4677/Black-Jack.git
+[submodule "Guess_The_Number"]
+	path = Guess_The_Number
+	url = https://github.com/sazzad4677/Guess_The_Number.git
