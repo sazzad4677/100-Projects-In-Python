@@ -26,3 +26,6 @@
 [submodule "Calculator"]
 	path = Calculator
 	url = https://github.com/sazzad4677/Calculator.git
+[submodule "Black-Jack"]
+	path = Black-Jack
+	url = https://github.com/sazzad4677/Black-Jack.git
