@@ -3,9 +3,11 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Band-Name-Generator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Black-Jack" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Blind-Auction" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Caesar-Cipher" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Calculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Guess_The_Number" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Hangman" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Password-Generator" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Rock-Paper-Scissors" vcs="Git" />

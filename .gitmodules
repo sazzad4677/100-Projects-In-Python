@@ -32,3 +32,6 @@
 [submodule "Guess_The_Number"]
 	path = Guess_The_Number
 	url = https://github.com/sazzad4677/Guess_The_Number.git
+[submodule "Higher-Or-Lower-Game"]
+	path = Higher-Or-Lower-Game
+	url = https://github.com/sazzad4677/Higher-Or-Lower-Game.git
